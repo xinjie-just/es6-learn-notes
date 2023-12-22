@@ -3,6 +3,7 @@
     "concat",
     "falsish",
     "hashbang",
+    "IIFE",
     "instanceof",
     "proto",
     "typeof"
